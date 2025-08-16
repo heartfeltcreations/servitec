@@ -1,9 +1,48 @@
+/* Todo */
+
 * {
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 }
 
-#sensible {
+.icons {
     width: 60px;
     padding: 10px;    
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+
+}
+
+/* Barra superior */
+
+header {
+    border-bottom: #333 solid 1px;
+    display: flex; flex-direction: initial;
+    gap: 20px;
+}
+
+
+#searchBar {
+    width: 75%;
+    height: 40px;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.one {
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    gap: 10px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
 }
