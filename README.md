@@ -1,6 +1,6 @@
 # 💻 Asistencia Técnica - [ServiTec]
 
-Este proyecto es una página web diseñada para el negocio de **asistencia técnica en informática y dispositivos electrónicos** de [César De Los Santos].  
+Este proyecto es una página web diseñada para el negocio de **asistencia técnica en informática y dispositivos electrónicos** de **César De Los Santos**.  
 El objetivo es ofrecer un espacio simple y accesible donde los clientes puedan conocer los servicios, contactar fácilmente y generar confianza en la marca.
 
 ## 🚀 Características
@@ -15,4 +15,4 @@ El objetivo es ofrecer un espacio simple y accesible donde los clientes puedan c
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
-- [Bootstrap] 
+- **Bootstrap**
